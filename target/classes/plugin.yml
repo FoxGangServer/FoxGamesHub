@@ -1,0 +1,4 @@
+name: FoxGamesHub
+version: '1.0'
+main: nl.officialfox.foxgameshub.FoxGamesHub
+api-version: '1.20'
